@@ -1,0 +1,16 @@
+{
+  "name": "decard-rate-limiter",
+  "version": "1.0.0",
+  "description": "A simple server to implement rate limiter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "f26401004@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "ipchecker": "0.0.2",
+    "level": "^5.0.1"
+  }
+}
