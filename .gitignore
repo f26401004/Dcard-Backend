@@ -1,3 +1,4 @@
 ip_database
 node_modules
-public/images
+public/images/*
+!public/images/.gitkeep
