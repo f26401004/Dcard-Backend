@@ -9,8 +9,12 @@
   "author": "f26401004@gmail.com",
   "license": "ISC",
   "devDependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
+    "formidable": "^1.2.1",
     "ipchecker": "0.0.2",
-    "level": "^5.0.1"
+    "level": "^5.0.1",
+    "sharp": "^0.22.0",
+    "uuid": "^3.3.2"
   }
 }

@@ -24,7 +24,6 @@ module.exports = function (options) {
     }
     options[key] = defaults[key]
   }
-  console.log(options)
   // get white/black list map from options
   const whiteListMap = ipchecker.map(options.whiteList)
   const blackListMap = ipchecker.map(options.blackList)
